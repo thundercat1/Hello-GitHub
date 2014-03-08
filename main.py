@@ -6,7 +6,7 @@ class numberArray:
    def show(self):
       print(self.arr)
    def sayHello(self):
-      print("Hello, I am a numberArray object")
+      print("Hello, I'm a numberArray object")
 
 
 a = numberArray()
